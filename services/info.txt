@@ -1,0 +1,1 @@
+This directory contains service modules that handle business logic, API calls, data fetching, and external integrations. Examples include API services, authentication services, database services, and third-party integrations.

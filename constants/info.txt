@@ -1,0 +1,1 @@
+This directory contains constant values and configuration objects used throughout the application. Examples include API endpoints, color schemes, dimension values, string constants, and environment configurations.

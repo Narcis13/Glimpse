@@ -1,0 +1,1 @@
+This directory contains reusable React Native components that can be used throughout the application. Examples include buttons, cards, modals, inputs, and other UI elements.

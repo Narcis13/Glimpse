@@ -1,0 +1,1 @@
+This directory contains utility functions and helper modules that provide common functionality used across the application. Examples include date formatters, validators, string manipulators, and other pure functions.

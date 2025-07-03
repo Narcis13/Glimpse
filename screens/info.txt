@@ -1,0 +1,1 @@
+This directory contains the main screen components of the application. Each screen represents a full page/view that users navigate to. Examples include HomeScreen, ProfileScreen, SettingsScreen, etc.

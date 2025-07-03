@@ -1,0 +1,1 @@
+This directory contains TypeScript type definitions, interfaces, and type utilities used throughout the application. Examples include data models, API response types, component prop types, and shared type definitions.
